@@ -8,3 +8,11 @@ All the main algorithms (+Thesis corpus PDF) contained in my dissertation focuse
 - model improvement by variance reduction techniques such as antithetic variables and control variables.
 
 Link to the Thesis: http://tesi.luiss.it/31722/
+
+# Contact
+
+Email: ale.loverde95@gmail.com
+LinkedIn: 
+GitHub: https://github.com/AlessandroLoVerde10
+
+Feel free to reach out for any questions or further clarification on this code.

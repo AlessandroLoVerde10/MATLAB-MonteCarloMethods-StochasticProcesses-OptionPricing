@@ -1,6 +1,6 @@
 # MATLAB-Option-Pricing-and-Stochastic-Processes
 
-All the main algorithms contained in my dissertation focused on:
+All the main algorithms (+Thesis corpus PDF) contained in my dissertation focused on:
 - random random number generation, 
 - simulation of discretized stochastic processes,
 - pricing of European, Asian, and barrier options with black and Scholes and SABR model, 

@@ -20,6 +20,6 @@ Feel free to reach out for any questions or further clarification on this code.
 
 Refuses: 
 Pag. 83: A.5.2 Ito’s Formula in the stochastic case: Geometric Brownian motion and Ito
-          \frac()() = 1 (μStdt + σStdWt)dSt − 1 (σSt)2dt (error)
-         = 1 (μStdt + σStdWt)dSt − 1 (σSt)2dt (corrected
+         = 1 (μ*S_t*dt + σ*S_t*dW_t)* dS_t − (1 / S_t^2) * (σ*St)^2*dt (error)
+         =  1 (μ*S_t*dt + σ*S_t*dW_t) − (1 / 2*S_t^2) * (σ*St)^2*dt (corrected)
 

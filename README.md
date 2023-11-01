@@ -12,13 +12,16 @@ Link to the Thesis: http://tesi.luiss.it/31722/
 # Contact
 
 Email: ale.loverde95@gmail.com
-LinkedIn: 
+
+LinkedIn: https://www.linkedin.com/in/alessandro-lo-verde-96a4581b6/
+
 GitHub: https://github.com/AlessandroLoVerde10
 
 Feel free to reach out for any questions or further clarification on this code.
 
 
 Refuses: 
+
 Pag. 83: A.5.2 Ito’s Formula in the stochastic case: Geometric Brownian motion and Ito
 
          = 1 (μ*S_t*dt + σ*S_t*dW_t)* dS_t − (1 / S_t^2) * (σ*St)^2*dt (error)

@@ -16,3 +16,10 @@ LinkedIn:
 GitHub: https://github.com/AlessandroLoVerde10
 
 Feel free to reach out for any questions or further clarification on this code.
+
+
+Refuses: 
+Pag. 83: A.5.2 Ito’s Formula in the stochastic case: Geometric Brownian motion and Ito
+          \frac()() = 1 (μStdt + σStdWt)dSt − 1 (σSt)2dt (error)
+         = 1 (μStdt + σStdWt)dSt − 1 (σSt)2dt (corrected
+

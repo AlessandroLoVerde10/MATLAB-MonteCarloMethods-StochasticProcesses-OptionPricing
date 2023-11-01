@@ -9,6 +9,15 @@ All the main algorithms (+Thesis corpus PDF) contained in my dissertation focuse
 
 Link to the Thesis: http://tesi.luiss.it/31722/
 
+
+# Refuses: 
+
+Pag. 83: A.5.2 Ito’s Formula in the stochastic case: Geometric Brownian motion and Ito
+
+         = 1 (μ*S_t*dt + σ*S_t*dW_t)* dS_t − (1 / S_t^2) * (σ*St)^2*dt (error)
+         
+         =  1 (μ*S_t*dt + σ*S_t*dW_t) − (1 / 2*S_t^2) * (σ*St)^2*dt (corrected)
+         
 # Contact
 
 Email: ale.loverde95@gmail.com
@@ -20,11 +29,4 @@ GitHub: https://github.com/AlessandroLoVerde10
 Feel free to reach out for any questions or further clarification on this code.
 
 
-Refuses: 
-
-Pag. 83: A.5.2 Ito’s Formula in the stochastic case: Geometric Brownian motion and Ito
-
-         = 1 (μ*S_t*dt + σ*S_t*dW_t)* dS_t − (1 / S_t^2) * (σ*St)^2*dt (error)
-         
-         =  1 (μ*S_t*dt + σ*S_t*dW_t) − (1 / 2*S_t^2) * (σ*St)^2*dt (corrected)
 

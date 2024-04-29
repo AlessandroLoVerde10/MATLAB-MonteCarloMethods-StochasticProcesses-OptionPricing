@@ -7,7 +7,7 @@ All the main algorithms (+Thesis corpus PDF) contained in my dissertation focuse
 - model calibration to extract implied volatility, 
 - model improvement by variance reduction techniques such as antithetic variables and control variables.
 
-Link to the Thesis: http://tesi.luiss.it/31722/
+Link to the Thesis: http://tesi.luiss.it/31722/ (actually not working, check the files Thesis_ALV_Finance.pdf above)
 
 
 # Refuses: 
